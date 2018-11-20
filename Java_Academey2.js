@@ -75,3 +75,5 @@ for (var i = 0; i < count; i = i + 1) {
 for (var page = 1; page <= totalPages; page = page + 1) {
   keks.print(page);
 }
+
+new
